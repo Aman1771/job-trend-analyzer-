@@ -47,5 +47,5 @@ This project helps you **analyze live job data** and gain insights such as:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/job-trend-analyzer.git
+git clone https://github.com/Aman1771/job-trend-analyzer.git
 cd job-trend-analyzer
