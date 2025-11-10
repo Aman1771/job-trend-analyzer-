@@ -42,6 +42,9 @@ This project helps you **analyze live job data** and gain insights such as:
 | Optional | Power BI |
 
 ---
+## power Bi dashboard
+<img width="1920" height="1080" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/58c5adeb-2dd0-401a-9fcf-e757e224f2fd" />
+
 
 ## 🧰 Installation
 
